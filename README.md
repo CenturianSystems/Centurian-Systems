@@ -1,2 +1,2 @@
 # Centurian Systems
-Under Constrcution website for **Centurian Systems**.
+Website for **Centurian Systems**.
